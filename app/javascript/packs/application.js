@@ -17,3 +17,5 @@
 
 import '../src/jets/crud'
 console.log('Hello World from Webpacker')
+
+require.context('../../assets/images', true)
